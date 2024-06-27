@@ -1,4 +1,4 @@
-Here's a sample `README.md` file for your project. This document outlines the project's purpose, setup instructions, usage, and other important details.
+ This document outlines the project's purpose, setup instructions, usage, and other important details.
 
 ```markdown
 ---Email Subscription Form---
