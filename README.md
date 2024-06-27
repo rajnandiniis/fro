@@ -1,7 +1,7 @@
 Here's a sample `README.md` file for your project. This document outlines the project's purpose, setup instructions, usage, and other important details.
 
 ```markdown
-# Email Subscription Form
+---Email Subscription Form---
 
 This project is a simple email subscription form designed to collect email addresses and store them in a Google Sheet. It is built using HTML and CSS.
 
@@ -27,7 +27,7 @@ Make sure you have the following installed:
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/rajnandiniis/email-subscription-form.git
+   git clone https://github.com/rajnandiniis/fro
    ```
 2. Open `index.html` in your web browser to view the form.
 
@@ -84,7 +84,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name -rajnandini1783@gmail.com
 
-Project Link: [https://github.com/yourusername/email-subscription-form](https://github.com/rajnandiniis/email-subscription-form)
+Project Link:(https://github.com/rajnandiniis/fro)
 ```
 
 Feel free to adjust the content according to your project's specifics.
