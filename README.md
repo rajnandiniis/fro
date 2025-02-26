@@ -1,7 +1,5 @@
- This document outlines the project's purpose, setup instructions, usage, and other important details.
 
-```markdown
----Email Subscription Form---
+
 
 This project is a simple email subscription form designed to collect email addresses and store them in a Google Sheet. It is built using HTML and CSS.
 
